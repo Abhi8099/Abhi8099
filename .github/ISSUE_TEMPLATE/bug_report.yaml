@@ -1,0 +1,15 @@
+name: "🐞 Bug report"
+description: Report a reproducible problem
+labels: [bug]
+body:
+  - type: textarea
+    id: summary
+    attributes: { label: Summary, placeholder: What happened? What did you expect? }
+    validations: { required: true }
+  - type: textarea
+    id: steps
+    attributes: { label: Steps to Reproduce, placeholder: "1) ...\n2) ...\n3) ..." }
+    validations: { required: true }
+  - type: textarea
+    id: logs
+    attributes: { label: Logs / Screenshots }
