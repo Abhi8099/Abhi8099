@@ -83,14 +83,7 @@ Spearheaded frontend development for a full-scale guest posting platform (10K+ u
 
 ---
 
-### <a href="https://www.w3era.com/" target="_blank">W3Era.com</a>
-Agency website revamp: performance-focused Next.js pages, schema/OG/meta hygiene, build-time content pipelines, and marketing integrations.
-
-### <a href="https://academy.w3era.com/" target="_blank">Academy.W3Era.com</a>
-Education portal UX and front-end components; gated content flows, auth, dashboards, and analytics hooks.
 
 </div>
 <!-- FEATURED: end -->
-
----
 
