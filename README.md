@@ -94,23 +94,3 @@ Education portal UX and front-end components; gated content flows, auth, dashboa
 
 ---
 
-## Pinned work
-<a href="https://github.com/Abhi8099"><img height="1" width="1" alt=""></a>
-
-<!-- Replace repo names below with your actual best repos on this account -->
-<a href="https://github.com/Abhi8099/empmvp"><img alt="empmvp" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhi8099&repo=empmvp&theme=transparent" /></a>
-<a href="https://github.com/Abhi8099/ecom-backend"><img alt="ecom-backend" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhi8099&repo=ecom-backend&theme=transparent" /></a>
-<a href="https://github.com/Abhi8099/PromptSharingNextJS"><img alt="PromptSharingNextJS" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhi8099&repo=PromptSharingNextJS&theme=transparent" /></a>
-<a href="https://github.com/Abhi8099/socket.io"><img alt="socket.io" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhi8099&repo=socket.io&theme=transparent" /></a>
-
-## Stats
-<div align="center">
-  <a href="https://github.com/Abhi8099"><img height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Abhi8099&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=transparent" /></a>
-  <a href="https://github.com/Abhi8099"><img height="150" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi8099&layout=compact&langs_count=8&card_width=320&theme=transparent" /></a>
-  <a href="https://github.com/Abhi8099"><img height="150" alt="Streak" src="https://streak-stats.demolab.com?user=Abhi8099&hide_longest_streak=true&theme=transparent&date_format=j%20M%5B%20Y%5D" /></a>
-</div>
-
-## Activity
-![Snake Light](./dist/snake.svg#gh-light-mode-only)
-![Snake Dark](./dist/snake-dark.svg#gh-dark-mode-only)
-
