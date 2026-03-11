@@ -1,3 +1,4 @@
+<!-- Abhi8099/Abhi8099: GitHub Profile README -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&center=true&vCenter=true&width=920&lines=Abhishek+Sharma+%7C+Full-Stack+Engineer;Next.js+%2B+TypeScript+%7C+Prisma%2FPostgres+%7C+Mongo%2FNextAuth;Clean+DX%2C+scalable+systems%2C+AI-ready+apps" alt="typing banner" />
@@ -84,4 +85,5 @@ Spearheaded frontend development for a full-scale guest posting platform (10K+ u
 
 
 </div>
+<!-- FEATURED: end -->
 
